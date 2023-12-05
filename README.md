@@ -1,10 +1,27 @@
 # Hi there, I'm Shweta👋
 
-- I'm a **FrontEnd Developer Student at SheCodes**
-- Postman Student Expert with Experience in API Development & Testing.
-- Experience in C++
-- Check out my [LeetCode](https://leetcode.com/shwet_a) and [HackerRank](https://www.hackerrank.com/profile/shweta3109555) for my coding profile.
+FrontEnd Developer Student at SheCodes
+--------------------------------------
 
+I am a pre final year student at University of Lucknow, majoring in Computer Science & Engineering. I am interested and actively working in the Web Development domain to expand my skill set and develop creative tools that solve real world problems.
+
+- 🖥️ I'm a Postman Student Expert with Experience in API Development & Testing.
+- 🧠 Experience in C++
+- 🌍 Check out my [LeetCode](https://leetcode.com/shwet_a) and [HackerRank](https://www.hackerrank.com/profile/shweta3109555) for my coding profile.
+
+
+---
+
+### Skills 
+<p align="left">
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+    </p>    
 
 ---
 
@@ -65,22 +82,12 @@
 ![Visitor Count](https://profile-counter.glitch.me/Shwet310/count.svg)
 
 
-Hi 👋 My name is Shweta
-=======================
 
-FrontEnd Developer Student at SheCodes
---------------------------------------
-
-I am a pre final year student at University of Lucknow, majoring in Computer Science & Engineering. I am interested and actively working in the Web Development domain to expand my skill set and develop creative tools that solve real world problems.
 
 *   🌍  I'm based in Lucknow, India
 *   🖥️  See my portfolio at [LeetCode](http://leetcode.com/shwet_a/)
 *   🧠  I'm learning Web Development & C++<a href="https://www.github.com/Shwet310" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Shwet310?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                    </p>
                     
 ### Socials
   
