@@ -63,6 +63,10 @@ I am passionate about creating innovative tools that address real-world problems
   <img src = "https://readme-stats-hazel-two.vercel.app/api/top-langs/?username=Shwet310&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Shweta" />
 </p>
 
+<a href="https://github.com/Shwet310" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwet310&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
+
 
 ---
 
@@ -105,17 +109,6 @@ I am passionate about creating innovative tools that address real-world problems
 
 ![Visitor Count](https://profile-counter.glitch.me/Shwet310/count.svg)
 
-
----
-
-### Badges
-
-<a href="https://github.com/Shwet310" align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwet310&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages"
-  />
-</a>
 
 ---
 
