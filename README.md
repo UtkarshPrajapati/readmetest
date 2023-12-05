@@ -3,7 +3,7 @@
 - I'm a **FrontEnd Developer Student at SheCodes**
 - Postman Student Expert with Experience in API Development & Testing.
 - Experience in C++
-- Check out my [LeetCode](https://leetcode.com/shwet_a) for my coding profile.
+- Check out my [LeetCode](https://leetcode.com/shwet_a) and [HackerRank](https://www.hackerrank.com/profile/shweta3109555) for my coding profile.
 
 
 ---
