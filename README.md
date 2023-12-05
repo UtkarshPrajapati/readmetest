@@ -60,13 +60,8 @@ I am passionate about creating innovative tools that address real-world problems
 ### 👨‍💻 Top Languages Used:
 
 <p align="center">
-  <img src = "https://readme-stats-hazel-two.vercel.app/api/top-langs/?username=Shwet310&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Shweta" />
+  <img src = "https://readme-stats-hazel-two.vercel.app/api/top-langs/?username=Shwet310&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Shweta" />
 </p>
-
-<a href="https://github.com/Shwet310" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwet310&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-
 
 ---
 
