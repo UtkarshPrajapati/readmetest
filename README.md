@@ -16,7 +16,7 @@ I am passionate about creating innovative tools that address real-world problems
 
 ---
 
-### Skills 
+### Skills:
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>    
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>    
@@ -73,7 +73,7 @@ I am passionate about creating innovative tools that address real-world problems
   
 ---
                     
-### Socials
+### Socials:
 <p align="left">
     <a href="https://www.github.com/Shwet310" target="_blank" rel="noreferrer">
         <picture>
@@ -107,7 +107,7 @@ I am passionate about creating innovative tools that address real-world problems
 
 ---
 
-### Top Repositories
+### Top Repositories:
 <div width="100%" align="center">
   <a href="https://github.com/Shwet310/TicTacToe-" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shwet310&repo=TicTacToe-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
