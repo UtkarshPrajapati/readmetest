@@ -42,19 +42,19 @@ I am passionate about creating innovative tools that address real-world problems
 ### 🏅 Top Repositories:
 <div>
   <a href="https://github.com/Shwet310/TicTacToe-" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwet310&repo=TicTacToe-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=TicTacToe-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Shwet310/Sorting_Visualizer" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwet310&repo=Sorting_Visualizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=Sorting_Visualizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <br><br>
   <a href="https://github.com/Shwet310/SnakeGame" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwet310&repo=SnakeGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=SnakeGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Shwet310/House-Price-Predictor" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwet310&repo=House-Price-Predictor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Shwet310&repo=House-Price-Predictor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 
