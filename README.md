@@ -72,20 +72,6 @@ I am passionate about creating innovative tools that address real-world problems
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Shwet310&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Shweta" />
 </p>
   
- ---
-  
-### Contact Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shweta-b27a58228/"><img alt="linkedin" height="50px" style="padding:5px; vertical-align: middle;" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG14.png"/></a>
-</p>
-
----
-
-### Profile views:
-
-![Visitor Count](https://profile-counter.glitch.me/Shwet310/count.svg)
-
 ---
                     
 ### Socials
@@ -112,6 +98,13 @@ I am passionate about creating innovative tools that address real-world problems
         </picture>
     </a>
 </p>
+
+---
+
+### Profile views:
+
+![Visitor Count](https://profile-counter.glitch.me/Shwet310/count.svg)
+
 
 ---
 
