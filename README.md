@@ -3,7 +3,9 @@
 FrontEnd Developer Student at SheCodes
 --------------------------------------
 
-I am a pre final year student at University of Lucknow, majoring in Computer Science & Engineering. I am interested and actively working in the Web Development domain to expand my skill set and develop creative tools that solve real world problems.
+I am a pre-final year student at the University of Lucknow, pursuing a major in Computer Science & Engineering.  
+My primary interest lies in the domain of Web Development and Coding, where I am actively working to broaden my skill set.  
+I am passionate about creating innovative tools that address real-world problems and contribute to the advancement of technology.
 
 <br>
 
