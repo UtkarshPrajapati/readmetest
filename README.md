@@ -86,7 +86,7 @@ I am passionate about creating innovative tools that address real-world problems
 
 ![Visitor Count](https://profile-counter.glitch.me/Shwet310/count.svg)
 
-
+---
                     
 ### Socials
 <p align="left">
@@ -113,7 +113,8 @@ I am passionate about creating innovative tools that address real-world problems
     </a>
 </p>
 
-    
+---
+
 ### Badges
 
 <a href="https://github.com/Shwet310" align="left">
@@ -122,8 +123,10 @@ I am passionate about creating innovative tools that address real-world problems
     alt="Top Languages"
   />
 </a>
-<br>
-<b>Top Repositories</b>
+
+---
+
+### Top Repositories
 <div width="100%" align="center">
   <a href="https://github.com/Shwet310/TicTacToe-" align="left">
     <img
