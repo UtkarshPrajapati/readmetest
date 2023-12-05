@@ -37,8 +37,8 @@ I am a pre final year student at University of Lucknow, majoring in Computer Sci
 
 ### 🏆 GitHub Profile Trophy:
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="center">                                              
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Shwet310&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
   </a>
 </p>
