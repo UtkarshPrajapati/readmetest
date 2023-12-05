@@ -1,9 +1,11 @@
-# Hi there, I'm Shweta👋
+# Hi there, I'm Shweta👋 <a href="https://www.github.com/Shwet310" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Shwet310?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 FrontEnd Developer Student at SheCodes
 --------------------------------------
 
 I am a pre final year student at University of Lucknow, majoring in Computer Science & Engineering. I am interested and actively working in the Web Development domain to expand my skill set and develop creative tools that solve real world problems.
+
+<br>
 
 - 🖥️ I'm a Postman Student Expert with Experience in API Development & Testing.
 - 🧠 Experience in C++
@@ -82,12 +84,6 @@ I am a pre final year student at University of Lucknow, majoring in Computer Sci
 
 ![Visitor Count](https://profile-counter.glitch.me/Shwet310/count.svg)
 
-
-
-
-*   🌍  I'm based in Lucknow, India
-*   🖥️  See my portfolio at [LeetCode](http://leetcode.com/shwet_a/)
-*   🧠  I'm learning Web Development & C++<a href="https://www.github.com/Shwet310" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Shwet310?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
                     
 ### Socials
